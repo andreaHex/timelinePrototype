@@ -1,0 +1,20 @@
+GridComponent.css
+.active1 {
+    background-color: #d1ffd1; /* Colore attivo per il primo bottone */
+    opacity:0.5
+  }
+  
+  .inactive1 {
+    background-color: #f9d1d1; /* Colore inattivo per il primo bottone */
+    opacity: 1;
+  }
+  
+  .active2 {
+    background-color: #d1d1ff; /* Colore attivo per il secondo bottone */
+    opacity: 0.5;
+  }
+  
+  .inactive2 {
+    background-color: #f9f9d1; /* Colore inattivo per il secondo bottone */
+    opacity: 1;
+  }
